@@ -26,7 +26,8 @@ Notes:
 
     -time to complete: 6 hours
 
-    -where I can improve: creating stateful vs stateless components, prop passing between components, advanced .map() jsx
+    -where I can improve: creating stateful vs stateless components, prop passing between components, advanced .map() jsx, testing React applications with Jest and Enzyme
+
     
 
 
